@@ -43,7 +43,7 @@ with [`pytest-cov`](https://pytest-cov.readthedocs.io/).
 
 A project starter for personal usage containing the following:
 
-- [Python 3.12.\*](https://www.python.org/)
+- [Python 3.13.\*](https://www.python.org/)
 - [FastAPI](https://fastapi.tiangolo.com/) web framework
 - Structured logging using [`structlog`](https://www.structlog.org/)
 - Dependency management using [`uv`](https://docs.astral.sh/uv/)
@@ -55,7 +55,7 @@ A project starter for personal usage containing the following:
 
 ## Prerequisites
 
-- [Python 3.12.\*](https://www.python.org/downloads/)
+- [Python 3.13.\*](https://www.python.org/downloads/)
 - [uv](https://docs.astral.sh/uv/)
 
 ### 1. Install Python 3 and uv
