@@ -4,14 +4,14 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = ["fastapi[standard]>=0.115.6", "structlog>=24.4.0"]
+dependencies = ["fastapi[standard]>=0.115.12", "structlog>=25.2.0"]
 
 [tool.uv]
 dev-dependencies = [
     "httpx>=0.28.1",
-    "pytest>=8.3.4",
+    "pytest>=8.3.5",
     "pytest-cov>=6.0.0",
-    "ruff>=0.9.1",
+    "ruff>=0.11.2",
 ]
 
 [tool.ruff.lint]
