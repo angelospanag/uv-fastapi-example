@@ -10,8 +10,8 @@ dependencies = ["fastapi[standard]>=0.115.12", "structlog>=25.2.0"]
 dev-dependencies = [
     "httpx>=0.28.1",
     "pytest>=8.3.5",
-    "pytest-cov>=6.0.0",
-    "ruff>=0.11.2",
+    "pytest-cov>=6.1.1",
+    "ruff>=0.11.6",
 ]
 
 [tool.ruff.lint]
