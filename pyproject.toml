@@ -1,7 +1,10 @@
 [project]
 name = "uv-fastapi-example"
 version = "0.1.0"
-description = "Add your description here"
+authors = [
+    { name = "Angelos Panagiotopoulos", email = "angelospanag@protonmail.com" },
+]
+description = "An example of a FastAPI application managed as uv project."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = ["fastapi[standard]>=0.115.12", "structlog>=25.2.0"]
